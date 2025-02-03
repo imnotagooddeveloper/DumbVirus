@@ -8,6 +8,7 @@ Result? 107MB HASH FILE! yippie....<br>
 I hope nobody wont download this repos just for hashes.<br>
 dont download it i already added hashes into 1 file.<br>
 NOTE: IT CONTAINS A HASH MULTIPLE TIMES I DIDNT CHECKED IT OH NO OPTIMIZATION? NO ITS C ITS STILL FAST<br>
+!!!build it gcc and like this otherwise it'll ask for external managed library :gcc -o output.exe code.c -lssl -lcrypto <br>
 Repos used:<br>
 Half hash file link: https://github.com/aaryanrlondhe/Malware-Hash-Database<br>
 malware repos:<br>
@@ -26,6 +27,7 @@ bulabildiğim bütün zararlı repolarını indirdi ve evet hepsinin hashini tek
 ve evet işte 107mb hash dosyası!<br>
 sadece hash almak için bu repoları indirmeyin. ben hepsini ahsh dosyasına ekledim.<br>
 NOT: AYNI HASH'I BİRDEN FAZLA KEZ GÖRDÜM VE BUNU HİÇBİR ŞEKİLDE DÜZELTMEDİM! NİYE? ÇÜNKÜ C ÇOOK HIZLI<br>
+Ssadece gcc ile böyle derleyin yoksa ek kütüphane ister:gcc -o output.exe code.c -lssl -lcrypto <br>
 Kullanılan repolar:<br>
 hash dosyasının yarısı: https://github.com/aaryanrlondhe/Malware-Hash-Database<br>
 zararlılar:<br>
