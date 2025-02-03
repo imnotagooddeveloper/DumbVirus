@@ -18,7 +18,7 @@ https://github.com/Cryakl/Ultimate-RAT-Collection<br>
 
 and uhh for the .js file... I have no idea where this js came from. Found it on my flash from 9th grade. I checked it inside like looked strings and ran it on vm I'm %101 sure its a malware C:
 
-TR
+TR<br>
 Hash dosyasının içindeki sha256 ile bulunduğu klasördeki dosyaların hashlerini karşılaştıran bişey?<br>
 Evet C ve çok hızlı (hash dosyası 1.7M satır)<br>
 hashlerin yarısı çalıntı yarısını kendim aldım.<br>
