@@ -13,3 +13,6 @@ malware repos:<br>
 https://github.com/Da2dalus/The-MALWARE-Repo<br>
 https://github.com/Endermanch/MalwareDatabase<br>
 https://github.com/Cryakl/Ultimate-RAT-Collection<br>
+
+
+and uhh for the .js file... I have no idea where this js came from. Found it on my flash from 9th grade. I checked it inside like looked strings and ran it on vm I'm %101 sure its a malware C:
