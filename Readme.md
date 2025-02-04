@@ -8,7 +8,7 @@ Result? 107MB HASH FILE! yippie....<br>
 I hope nobody wont download this repos just for hashes.<br>
 dont download it i already added hashes into 1 file.<br>
 NOTE: IT CONTAINS A HASH MULTIPLE TIMES I DIDNT CHECKED IT OH NO OPTIMIZATION? NO ITS C ITS STILL FAST<br>
-!!!build it gcc and like this otherwise it'll ask for external managed library :gcc -o output.exe code.c -lssl -lcrypto <br>
+!!!build it with gcc and like this otherwise it'll ask for external managed library :gcc -o output.exe code.c -lssl -lcrypto <br>
 Repos used:<br>
 Half hash file link: https://github.com/aaryanrlondhe/Malware-Hash-Database<br>
 malware repos:<br>
